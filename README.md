@@ -4,7 +4,7 @@
 
 ###Quick Links
 + [5by5craft Github Wiki](https://github.com/5by5craft/BulkBag/wiki)
-+ [Report and Issue or Raise a Request](https://github.com/5by5craft/BulkBag/issues)
++ [Report an Issue or Raise a Request](https://github.com/5by5craft/BulkBag/issues)
 
 **Server Address:** minecraft.5by5.tv
 
