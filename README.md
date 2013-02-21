@@ -1,5 +1,5 @@
 ![Bulk Bag](images/BulkBag.png)
-*A place to report bugs &amp; request features on the 5by5 Minecraft server.*
+</br>*A place to report bugs &amp; request features on the 5by5 Minecraft server.*
 
 ###Quick Links
 + [5by5craft Github Wiki](https://github.com/5by5craft/BulkBag/wiki)
