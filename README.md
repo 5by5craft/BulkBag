@@ -1,4 +1,4 @@
-![Bulk Bag](images/BulkBag.png)
+![Bag](images/BulkBagBag.png)![Bulk Bag](images/BulkBag.png)
 
 *A place to report bugs &amp; request features on the 5by5 Minecraft server.*
 
