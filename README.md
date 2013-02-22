@@ -9,7 +9,7 @@
 **Server Address:** minecraft.5by5.tv
 
 ###5by5Craft
-We have worked really hard at creating a distinctively positive building community for 5by5crafters. We try to keep the gameplay as 'vanilla' as possible but with some necessary protection in place to protect against griefing.  Exploration is encouraged.
+We have worked really hard at creating a distinctively positive building community for 5by5crafters. We try to keep the gameplay as 'vanilla' as possible but with some necessary protection in place to guard against griefing.  Exploration is encouraged.
 
 ###Whitelist Policy
 Whitelisting helps us keep ourselves accountable for our actions on the server and to be respectful of the other players. If you want to be whitelisted you can do so by tweeting us your in-game name [@5by5craft](https://twitter.com/5by5craft).
