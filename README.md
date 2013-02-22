@@ -14,6 +14,6 @@ We have worked really hard at creating a distinctively positive building communi
 ###Whitelist Policy
 Whitelisting helps us keep ourselves accountable for our actions on the server and to be respectful of the other players. If you want to be whitelisted you can do so by tweeting us your in-game name [@5by5craft](https://twitter.com/5by5craft).
 
-###Helpful Links
+###Additional Links
 + [5by5craft on Reddit](http://www.reddit.com/r/5by5craft/)
 + [5by5craft Live Map](http://minecraft.5by5.tv:8123)
